@@ -1,0 +1,5 @@
+1. Run the 'data_generator_script-part2' jupyter file to produce the necessary data input(which uses the given dataset)
+2. inorder to generate precomputed clusters, run the 'myclusteringfunc' jupyter filter(giving a desired number of clusters for 
+    precomputation. keep this number of clusters for you would need to input it in phase 3)
+3. To perform collaborative filtering , run the 'collaborative_filtering_final' file bearing in the mind the number of clusters you created in step 2.
+   select the type of recommendation system you want and key in user id , the output is a list of top 20 recommended movies for that user.
